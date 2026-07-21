@@ -17,8 +17,4 @@ Etéreo Tejidos es un emprendimiento de creaciones únicas hechas a mano. El sit
 ## Tecnologías utilizadas
 
 - HTML5
-- SCSS / CSS3
-- Bootstrap
-- AOS (Animate On Scroll)
-
-## Estructura de carpetas
+- CSS
